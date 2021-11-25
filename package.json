@@ -3,10 +3,14 @@
     "start": "ts-node src/index.ts"
   },
   "dependencies": {
+    "aws-sdk": "^2.1036.0",
     "dotenv": "^10.0.0",
     "ts-node": "^10.4.0"
   },
   "devDependencies": {
+    "@types/node": "^16.11.10",
     "typescript": "^4.5.2"
-  }
+  },
+  "author": "JeongSeungMin",
+  "license": "ISC"
 }

@@ -3,6 +3,7 @@
     "start": "ts-node src/index.ts"
   },
   "dependencies": {
+    "dotenv": "^10.0.0",
     "ts-node": "^10.4.0"
   },
   "devDependencies": {
